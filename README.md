@@ -1,4 +1,4 @@
-# FDS-HW2
+# Fundamental Methods for Data Science - Homework 2
 
 ## What's inside this repository?
 
